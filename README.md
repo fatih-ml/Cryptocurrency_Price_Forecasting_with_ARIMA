@@ -5,8 +5,8 @@ Work in Progress
 This project aims to develop a forecasting model for predicting the prices of selected cryptocurrencies using the ARIMA (AutoRegressive Integrated Moving Average) model.
 
 ## Components
-Data Collection and Preprocessing
-Exploratory Data Analysis (EDA)
+* Data Collection and Preprocessing
+* Exploratory Data Analysis (EDA)
 Feature Engineering (if applicable)
 ARIMA Modeling
 Model Training and Validation
